@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Priya Sharma",
+        "location": "Mumbai",
+        "rating": 5,
+        "text": "Hithu Global Holidays made our Kerala honeymoon absolutely magical! Every detail was perfectly planned — the houseboat was luxurious, and the itinerary was seamless. Can't recommend them enough!",
+        "avatar": "PS"
+    },
+    {
+        "name": "Rajesh Kumar",
+        "location": "Delhi",
+        "rating": 5,
+        "text": "Took our family of 6 on the Rajasthan Heritage Tour. The kids loved the camel safari! Their team was always available on WhatsApp for any queries. Truly professional service.",
+        "avatar": "RK"
+    },
+    {
+        "name": "Ananya Reddy",
+        "location": "Hyderabad",
+        "rating": 5,
+        "text": "Our Bali trip was a dream come true! The villa was stunning, the sunrise trek was breathtaking, and the entire trip was hassle-free. Hithu Global Holidays is our go-to travel partner now.",
+        "avatar": "AR"
+    },
+    {
+        "name": "Vikram Patel",
+        "location": "Ahmedabad",
+        "rating": 4,
+        "text": "Excellent planning for our Dubai family trip. The desert safari was the highlight! Their transparent approach — no hidden costs — really stood out. Will definitely book again.",
+        "avatar": "VP"
+    },
+    {
+        "name": "Sneha Nair",
+        "location": "Bangalore",
+        "rating": 5,
+        "text": "The Maldives overwater villa experience was beyond our expectations! Hithu Global arranged everything perfectly. From airport pickup to farewell dinner — every moment was special.",
+        "avatar": "SN"
+    },
+    {
+        "name": "Arjun Mehta",
+        "location": "Pune",
+        "rating": 5,
+        "text": "We explored Meghalaya with Hithu Global and it was incredible. The living root bridges, Dawki river — everything was so well organized. Their local knowledge really shows.",
+        "avatar": "AM"
+    }
+]

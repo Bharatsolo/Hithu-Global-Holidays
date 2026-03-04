@@ -1,0 +1,12 @@
+
+> hithu-global-holidays@0.1.0 dev
+> next dev
+
+Γû▓ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://172.20.10.2:3000
+
+Γ£ô Starting...
+Γ¿» Unable to acquire lock at C:\Users\bhara\.gemini\antigravity\scratch\hithu-global-holidays\.next\dev\lock, is another instance of next dev running?
+  Suggestion: If you intended to restart next dev, terminate the other process, and then try again.
+[?25h

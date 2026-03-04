@@ -1,0 +1,160 @@
+[
+  {
+    "slug": "kerala-backwaters",
+    "title": "Kerala Backwaters Escape",
+    "duration": "5 Days / 4 Nights",
+    "state": "Kerala",
+    "theme": ["Family", "Honeymoon"],
+    "idealFor": "Couples & Families",
+    "bestTime": "September to March",
+    "description": "Cruise through the serene backwaters of Alleppey, explore lush tea plantations of Munnar, and unwind on pristine beaches of Kovalam. A perfect blend of relaxation and adventure.",
+    "highlights": ["Houseboat cruise in Alleppey", "Munnar tea gardens", "Kovalam beach sunset", "Kathakali performance", "Ayurvedic spa experience"],
+    "image": "/images/packages/kerala.jpg",
+    "gallery": ["/images/packages/kerala.jpg", "/images/packages/kerala-2.jpg", "/images/packages/kerala-3.jpg", "/images/packages/kerala-4.jpg"],
+    "itinerary": [
+      {"day": 1, "title": "Arrival in Kochi", "description": "Arrive at Cochin International Airport. Visit Fort Kochi, Chinese Fishing Nets, and St. Francis Church. Evening Kathakali dance performance. Overnight at Kochi hotel."},
+      {"day": 2, "title": "Kochi to Munnar", "description": "Drive through scenic Western Ghats to Munnar. En route visit Cheeyappara Waterfalls and spice plantations. Evening walk through tea gardens. Overnight at Munnar resort."},
+      {"day": 3, "title": "Munnar Exploration", "description": "Visit Eravikulam National Park, Mattupetty Dam, and Top Station for panoramic valley views. Evening Ayurvedic spa session. Overnight at Munnar."},
+      {"day": 4, "title": "Munnar to Alleppey Houseboat", "description": "Drive to Alleppey and board a luxury houseboat. Cruise through Kerala's famous backwaters, palm-fringed canals, and village life. Fresh Kerala cuisine served on board. Overnight on houseboat."},
+      {"day": 5, "title": "Departure", "description": "Morning backwater cruise. Disembark and transfer to Cochin Airport for departure with unforgettable memories."}
+    ],
+    "inclusions": ["4-star hotel accommodation", "Luxury houseboat stay", "Daily breakfast & dinner", "All transfers in AC vehicle", "Sightseeing as per itinerary", "Kathakali show tickets", "One Ayurvedic spa session"],
+    "exclusions": ["Airfare", "Lunch", "Personal expenses", "Camera fees at monuments", "Travel insurance", "Any items not mentioned in inclusions"]
+  },
+  {
+    "slug": "goa-beach-retreat",
+    "title": "Goa Beach Retreat",
+    "duration": "4 Days / 3 Nights",
+    "state": "Goa",
+    "theme": ["Honeymoon", "Adventure"],
+    "idealFor": "Couples & Friends",
+    "bestTime": "October to March",
+    "description": "Experience the vibrant heart of Goa — golden beaches, Portuguese heritage, thrilling water sports, and unforgettable nightlife. The ultimate beach vacation awaits.",
+    "highlights": ["Baga & Calangute beaches", "Old Goa heritage tour", "Water sports adventure", "Dudhsagar Falls excursion", "Sunset cruise on Mandovi River"],
+    "image": "/images/packages/goa.jpg",
+    "gallery": ["/images/packages/goa.jpg", "/images/packages/goa-2.jpg", "/images/packages/goa-3.jpg", "/images/packages/goa-4.jpg"],
+    "itinerary": [
+      {"day": 1, "title": "Arrival in Goa", "description": "Arrive at Goa Airport. Transfer to beach resort. Relax at Calangute Beach. Evening sunset cruise on Mandovi River with live music. Overnight at resort."},
+      {"day": 2, "title": "North Goa Exploration", "description": "Visit Fort Aguada, Anjuna Flea Market, and Vagator Beach. Try thrilling water sports — jet ski, parasailing, and banana boat ride. Evening at Baga Beach nightlife."},
+      {"day": 3, "title": "South Goa & Heritage", "description": "Explore Old Goa — Basilica of Bom Jesus, Se Cathedral. Visit Palolem Beach and Colva Beach. Evening spice plantation tour with dinner. Overnight at resort."},
+      {"day": 4, "title": "Departure", "description": "Morning leisure time at the beach. Transfer to Goa Airport for departure."}
+    ],
+    "inclusions": ["Beach resort accommodation", "Daily breakfast", "Airport transfers", "Sunset cruise", "North Goa sightseeing tour", "South Goa heritage tour"],
+    "exclusions": ["Airfare", "Lunch & dinner", "Water sports charges", "Personal expenses", "Travel insurance"]
+  },
+  {
+    "slug": "rajasthan-royal-heritage",
+    "title": "Rajasthan Royal Heritage Tour",
+    "duration": "7 Days / 6 Nights",
+    "state": "Rajasthan",
+    "theme": ["Family", "Adventure"],
+    "idealFor": "Families & History Enthusiasts",
+    "bestTime": "October to March",
+    "description": "Journey through the land of kings — majestic forts, ornate palaces, golden deserts, and vibrant bazaars. Rajasthan offers an experience that's truly royal.",
+    "highlights": ["Amber Fort elephant ride", "Thar Desert camel safari", "Udaipur lake palace", "Jodhpur blue city walk", "Jaisalmer sand dunes camping"],
+    "image": "/images/packages/rajasthan.jpg",
+    "gallery": ["/images/packages/rajasthan.jpg", "/images/packages/rajasthan-2.jpg", "/images/packages/rajasthan-3.jpg", "/images/packages/rajasthan-4.jpg"],
+    "itinerary": [
+      {"day": 1, "title": "Arrival in Jaipur", "description": "Arrive at Jaipur Airport. Visit Hawa Mahal and Jantar Mantar. Evening walk through vibrant Johari Bazaar. Overnight at Jaipur heritage hotel."},
+      {"day": 2, "title": "Jaipur Fort & Culture", "description": "Morning visit to Amber Fort with elephant ride. Explore City Palace and Albert Hall Museum. Evening Rajasthani folk dance show. Overnight at Jaipur."},
+      {"day": 3, "title": "Jaipur to Jodhpur", "description": "Drive to the Blue City of Jodhpur. Visit Mehrangarh Fort and Jaswant Thada. Evening walk through the blue lanes of old city. Overnight at Jodhpur."},
+      {"day": 4, "title": "Jodhpur to Jaisalmer", "description": "Drive through the Thar Desert to Jaisalmer. Visit Jaisalmer Fort and Patwon ki Haveli. Evening desert safari with camel ride. Overnight desert camping under stars."},
+      {"day": 5, "title": "Jaisalmer to Udaipur", "description": "Morning at Sam Sand Dunes. Drive to Udaipur — City of Lakes. Evening boat ride on Lake Pichola. Overnight at Udaipur lakeside hotel."},
+      {"day": 6, "title": "Udaipur Exploration", "description": "Visit City Palace, Saheliyon ki Bari, and Jagdish Temple. Explore Fateh Sagar Lake. Evening dinner with lake view. Overnight at Udaipur."},
+      {"day": 7, "title": "Departure", "description": "Morning leisure time for shopping. Transfer to Udaipur Airport for departure."}
+    ],
+    "inclusions": ["Heritage hotel accommodations", "Desert camp stay", "Daily breakfast & dinner", "AC vehicle transfers", "All sightseeing as per itinerary", "Camel safari", "Boat ride at Lake Pichola"],
+    "exclusions": ["Airfare", "Lunch", "Personal expenses", "Camera fees", "Travel insurance", "Elephant ride charges"]
+  },
+  {
+    "slug": "himachal-mountain-magic",
+    "title": "Himachal Mountain Magic",
+    "duration": "6 Days / 5 Nights",
+    "state": "Himachal Pradesh",
+    "theme": ["Family", "Adventure", "Honeymoon"],
+    "idealFor": "Couples & Families",
+    "bestTime": "March to June, October to December",
+    "description": "From the charming hill station of Shimla to the adventure capital Manali, experience snow-capped peaks, apple orchards, pristine valleys, and thrilling Himalayan adventures.",
+    "highlights": ["Rohtang Pass snow point", "Solang Valley adventure sports", "Mall Road Shimla", "Kullu river rafting", "Hadimba Temple Manali"],
+    "image": "/images/packages/himachal.jpg",
+    "gallery": ["/images/packages/himachal.jpg", "/images/packages/himachal-2.jpg", "/images/packages/himachal-3.jpg", "/images/packages/himachal-4.jpg"],
+    "itinerary": [
+      {"day": 1, "title": "Arrival in Shimla", "description": "Arrive at Chandigarh and drive to Shimla. Evening stroll on the famous Mall Road and Ridge. Enjoy local street food. Overnight at Shimla hotel."},
+      {"day": 2, "title": "Shimla Sightseeing", "description": "Visit Kufri — enjoy horse riding and yak ride. Explore Jakhoo Temple and Christ Church. Evening toy train experience. Overnight at Shimla."},
+      {"day": 3, "title": "Shimla to Manali", "description": "Scenic drive through pine forests and Kullu Valley. Stop at Kullu for river rafting. Arrive Manali by evening. Overnight at Manali resort."},
+      {"day": 4, "title": "Manali Exploration", "description": "Visit Hadimba Temple, Vashisht Hot Springs, and Old Manali. Afternoon at Solang Valley for adventure sports — paragliding, zorbing. Overnight at Manali."},
+      {"day": 5, "title": "Rohtang Pass Excursion", "description": "Full day excursion to Rohtang Pass (subject to permit). Play in the snow, enjoy stunning Himalayan views. Evening bonfire at resort. Overnight at Manali."},
+      {"day": 6, "title": "Departure", "description": "Morning leisure. Drive to Chandigarh for departure with beautiful mountain memories."}
+    ],
+    "inclusions": ["3-star/4-star hotel stays", "Daily breakfast & dinner", "AC Volvo transfers", "Kullu river rafting", "All sightseeing as per itinerary", "Rohtang Pass permit"],
+    "exclusions": ["Airfare /train fare", "Lunch", "Adventure sport charges at Solang", "Personal expenses", "Travel insurance"]
+  },
+  {
+    "slug": "andaman-island-paradise",
+    "title": "Andaman Island Paradise",
+    "duration": "6 Days / 5 Nights",
+    "state": "Andaman & Nicobar",
+    "theme": ["Honeymoon", "Adventure"],
+    "idealFor": "Couples & Adventure Seekers",
+    "bestTime": "October to May",
+    "description": "Turquoise waters, white sandy beaches, and vibrant coral reefs — Andaman is a tropical paradise offering world-class diving, island hopping, and total serenity.",
+    "highlights": ["Radhanagar Beach (Asia's best)", "Scuba diving at Havelock", "Cellular Jail light & sound show", "Glass bottom boat ride", "Limestone caves of Baratang"],
+    "image": "/images/packages/andaman.jpg",
+    "gallery": ["/images/packages/andaman.jpg", "/images/packages/andaman-2.jpg", "/images/packages/andaman-3.jpg", "/images/packages/andaman-4.jpg"],
+    "itinerary": [
+      {"day": 1, "title": "Arrival in Port Blair", "description": "Arrive at Port Blair Airport. Visit Cellular Jail — a historic landmark. Attend the moving Light and Sound Show. Overnight at Port Blair hotel."},
+      {"day": 2, "title": "Port Blair to Havelock Island", "description": "Morning ferry to Havelock Island. Visit the world-famous Radhanagar Beach — voted Asia's best beach. Sunset at the beach. Overnight at Havelock beach resort."},
+      {"day": 3, "title": "Havelock Island Adventures", "description": "Morning scuba diving or snorkeling at Elephant Beach. Glass bottom boat ride over coral reefs. Afternoon relaxation at resort. Overnight at Havelock."},
+      {"day": 4, "title": "Neil Island Excursion", "description": "Ferry to Neil Island. Visit Bharatpur Beach, Laxmanpur Beach, and Natural Bridge. Enjoy crystal-clear waters and tropical scenery. Return to Havelock."},
+      {"day": 5, "title": "Havelock to Port Blair", "description": "Morning at leisure. Ferry back to Port Blair. Visit Corbyn's Cove Beach and Samudrika Marine Museum. Local market shopping. Overnight at Port Blair."},
+      {"day": 6, "title": "Departure", "description": "Transfer to Port Blair Airport for departure with island memories."}
+    ],
+    "inclusions": ["Beach resort stays", "Daily breakfast", "Ferry tickets (Port Blair-Havelock-Neil)", "Airport & jetty transfers", "Cellular Jail entry", "Glass bottom boat ride"],
+    "exclusions": ["Airfare", "Lunch & dinner", "Scuba diving charges", "Water sports", "Personal expenses", "Travel insurance"]
+  },
+  {
+    "slug": "kashmir-valley-dream",
+    "title": "Kashmir Valley Dream",
+    "duration": "6 Days / 5 Nights",
+    "state": "Jammu & Kashmir",
+    "theme": ["Family", "Honeymoon"],
+    "idealFor": "Couples & Families",
+    "bestTime": "April to October",
+    "description": "Discover why Kashmir is called Paradise on Earth — Dal Lake shikaras, Mughal gardens, snow-clad mountains, and the enchanting beauty of Gulmarg and Pahalgam.",
+    "highlights": ["Dal Lake shikara ride", "Gulmarg Gondola ride", "Mughal Gardens tour", "Pahalgam valley exploration", "Traditional Kashmiri wazwan dinner"],
+    "image": "/images/packages/kashmir.jpg",
+    "gallery": ["/images/packages/kashmir.jpg", "/images/packages/kashmir-2.jpg", "/images/packages/kashmir-3.jpg", "/images/packages/kashmir-4.jpg"],
+    "itinerary": [
+      {"day": 1, "title": "Arrival in Srinagar", "description": "Arrive at Srinagar Airport. Check into a luxury houseboat on Dal Lake. Evening shikara ride through floating gardens and markets. Overnight on houseboat."},
+      {"day": 2, "title": "Srinagar Mughal Gardens", "description": "Visit the three famous Mughal Gardens — Nishat Bagh, Shalimar Bagh, and Chashme Shahi. Afternoon visit Shankaracharya Temple. Evening at Dal Lake. Overnight at Srinagar hotel."},
+      {"day": 3, "title": "Srinagar to Gulmarg", "description": "Drive to Gulmarg — Meadow of Flowers. Experience the world's highest Gondola ride. Enjoy snow activities in winter or meadow walks in summer. Overnight at Gulmarg."},
+      {"day": 4, "title": "Gulmarg to Pahalgam", "description": "Drive through picturesque pine forests to Pahalgam — Valley of Shepherds. Visit Aru Valley and Betaab Valley. Overnight at Pahalgam."},
+      {"day": 5, "title": "Pahalgam to Srinagar", "description": "Morning visit Chandanwari and Baisaran meadow. Drive back to Srinagar. Evening shopping for Kashmiri handicrafts, shawls, and saffron. Traditional wazwan dinner. Overnight at Srinagar."},
+      {"day": 6, "title": "Departure", "description": "Morning transfer to Srinagar Airport. Depart with memories of paradise."}
+    ],
+    "inclusions": ["Houseboat stay", "Hotel accommodations", "Daily breakfast & dinner", "AC vehicle transfers", "Shikara ride", "Gulmarg Gondola Phase 1", "Sightseeing as per itinerary"],
+    "exclusions": ["Airfare", "Lunch", "Gondola Phase 2", "Pony rides", "Personal expenses", "Travel insurance"]
+  },
+  {
+    "slug": "meghalaya-hidden-gem",
+    "title": "Meghalaya — The Hidden Gem",
+    "duration": "5 Days / 4 Nights",
+    "state": "Meghalaya",
+    "theme": ["Adventure"],
+    "idealFor": "Adventure Seekers & Nature Lovers",
+    "bestTime": "October to May",
+    "description": "Explore the Scotland of the East — living root bridges, crystal-clear rivers, spectacular waterfalls, and the cleanest village in Asia. Meghalaya is India's best-kept secret.",
+    "highlights": ["Double Decker Living Root Bridge", "Dawki River crystal waters", "Nohkalikai Falls", "Mawlynnong cleanest village", "Laitlum Canyon viewpoint"],
+    "image": "/images/packages/meghalaya.jpg",
+    "gallery": ["/images/packages/meghalaya.jpg", "/images/packages/meghalaya-2.jpg", "/images/packages/meghalaya-3.jpg", "/images/packages/meghalaya-4.jpg"],
+    "itinerary": [
+      {"day": 1, "title": "Arrival in Shillong", "description": "Arrive at Guwahati Airport. Drive to Shillong. Visit Elephant Falls and Shillong Peak. Evening walk at Police Bazaar. Overnight at Shillong."},
+      {"day": 2, "title": "Shillong to Cherrapunji", "description": "Drive to Cherrapunji — one of the wettest places on earth. Visit Nohkalikai Falls, Mawsmai Cave, and Seven Sisters Falls. Overnight at Cherrapunji."},
+      {"day": 3, "title": "Living Root Bridges", "description": "Trek to the famous Double Decker Living Root Bridge in Nongriat. Swim in natural rock pools. An unforgettable adventure experience. Overnight at Cherrapunji."},
+      {"day": 4, "title": "Dawki & Mawlynnong", "description": "Visit Dawki — see the crystal-clear Umngot River. Boating on the transparent river. Visit Mawlynnong — Asia's cleanest village. Living Root Bridge at Riwai. Overnight at Shillong."},
+      {"day": 5, "title": "Departure", "description": "Morning visit Laitlum Canyon for panoramic views. Drive to Guwahati Airport for departure."}
+    ],
+    "inclusions": ["Hotel stays", "Daily breakfast & dinner", "SUV transfers", "Sightseeing as per itinerary", "Dawki boat ride", "Local guide for treks"],
+    "exclusions": ["Airfare", "Lunch", "Trek porter charges", "Personal expenses", "Travel insurance"]
+  }
+]

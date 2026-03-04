@@ -1,0 +1,457 @@
+[
+    {
+        "slug": "bali-tropical-bliss",
+        "title": "Bali Tropical Bliss",
+        "duration": "6 Days / 5 Nights",
+        "country": "Indonesia",
+        "theme": [
+            "Honeymoon",
+            "Adventure"
+        ],
+        "idealFor": "Couples & Friends",
+        "bestTime": "April to October",
+        "description": "Discover the Island of Gods — ancient temples, terraced rice paddies, pristine beaches, and vibrant nightlife. Bali is the ultimate tropical escape for every traveler.",
+        "highlights": [
+            "Ubud rice terraces & monkey forest",
+            "Tanah Lot sunset temple",
+            "Seminyak beach club",
+            "Mount Batur sunrise trek",
+            "Balinese spa & wellness"
+        ],
+        "image": "/images/packages/bali.jpg",
+        "gallery": [
+            "/images/packages/bali.jpg",
+            "/images/packages/bali-2.jpg",
+            "/images/packages/bali-3.jpg",
+            "/images/packages/bali-4.jpg"
+        ],
+        "itinerary": [
+            {
+                "day": 1,
+                "title": "Arrival in Bali",
+                "description": "Arrive at Ngurah Rai Airport. Transfer to Seminyak beach resort. Evening walk along Seminyak Beach and enjoy sunset dinner at a beach club. Overnight at Seminyak."
+            },
+            {
+                "day": 2,
+                "title": "Ubud Cultural Day",
+                "description": "Drive to Ubud — Bali's cultural heart. Visit Sacred Monkey Forest, Tegallalang Rice Terraces, and Ubud Art Market. Traditional Balinese dance performance. Overnight at Ubud villa."
+            },
+            {
+                "day": 3,
+                "title": "Mount Batur Sunrise Trek",
+                "description": "Pre-dawn trek to Mount Batur for a breathtaking sunrise. Relax at natural hot springs. Afternoon coffee plantation tour. Evening Balinese spa treatment. Overnight at Ubud."
+            },
+            {
+                "day": 4,
+                "title": "Temple & Beach Tour",
+                "description": "Visit Tirta Empul water temple and Kintamani volcano viewpoint. Afternoon at Tanah Lot — Bali's iconic sea temple. Sunset photography. Overnight at Seminyak."
+            },
+            {
+                "day": 5,
+                "title": "Nusa Penida Island",
+                "description": "Day trip to Nusa Penida island. Visit Kelingking Beach (T-Rex cliff), Angel's Billabong, and Broken Beach. Snorkeling with manta rays. Return to Bali. Overnight at Seminyak."
+            },
+            {
+                "day": 6,
+                "title": "Departure",
+                "description": "Morning leisure time and last-minute shopping. Transfer to airport for departure."
+            }
+        ],
+        "inclusions": [
+            "5-star resort & villa stays",
+            "Daily breakfast",
+            "Airport transfers",
+            "Private car with driver",
+            "Mount Batur trek with guide",
+            "Nusa Penida day trip with boat",
+            "Balinese spa session"
+        ],
+        "exclusions": [
+            "International airfare",
+            "Lunch & dinner",
+            "Visa fees",
+            "Travel insurance",
+            "Personal expenses",
+            "Tips & gratuities"
+        ]
+    },
+    {
+        "slug": "dubai-luxury-experience",
+        "title": "Dubai Luxury Experience",
+        "duration": "5 Days / 4 Nights",
+        "country": "UAE",
+        "theme": [
+            "Family",
+            "Honeymoon"
+        ],
+        "idealFor": "Families & Couples",
+        "bestTime": "November to March",
+        "description": "Experience the glitz and glamour of Dubai — soaring skyscrapers, golden deserts, luxury shopping, and world-class Entertainment. Where modern marvels meet Arabian heritage.",
+        "highlights": [
+            "Burj Khalifa At The Top",
+            "Desert safari with BBQ dinner",
+            "Dubai Mall & aquarium",
+            "Palm Jumeirah tour",
+            "Dhow cruise at Dubai Marina"
+        ],
+        "image": "/images/packages/dubai.jpg",
+        "gallery": [
+            "/images/packages/dubai.jpg",
+            "/images/packages/dubai-2.jpg",
+            "/images/packages/dubai-3.jpg",
+            "/images/packages/dubai-4.jpg"
+        ],
+        "itinerary": [
+            {
+                "day": 1,
+                "title": "Arrival in Dubai",
+                "description": "Arrive at Dubai International Airport. Transfer to hotel. Evening Dhow Cruise at Dubai Marina with dinner and live entertainment. Overnight at Dubai."
+            },
+            {
+                "day": 2,
+                "title": "Dubai City Tour",
+                "description": "Visit Burj Khalifa observation deck, Dubai Mall, and Dubai Aquarium. Explore The Dubai Fountain show. Afternoon at Jumeirah Beach. Evening at Global Village. Overnight at Dubai."
+            },
+            {
+                "day": 3,
+                "title": "Desert Safari Adventure",
+                "description": "Morning at leisure or optional Dubai Frame visit. Afternoon desert safari — dune bashing, sand boarding, camel riding. Evening BBQ dinner with belly dance show under the stars."
+            },
+            {
+                "day": 4,
+                "title": "Abu Dhabi Day Trip",
+                "description": "Full-day excursion to Abu Dhabi. Visit Sheikh Zayed Grand Mosque, Ferrari World (optional), and Yas Island. Return to Dubai. Evening for shopping at Gold Souk."
+            },
+            {
+                "day": 5,
+                "title": "Departure",
+                "description": "Morning at leisure. Visit Palm Jumeirah and Atlantis. Transfer to Dubai Airport for departure."
+            }
+        ],
+        "inclusions": [
+            "4-star hotel accommodation",
+            "Daily breakfast",
+            "Airport transfers",
+            "Burj Khalifa tickets",
+            "Desert safari with dinner",
+            "Dhow cruise dinner",
+            "Dubai city tour"
+        ],
+        "exclusions": [
+            "International airfare",
+            "Visa fees",
+            "Lunch",
+            "Shopping expenses",
+            "Travel insurance",
+            "Optional activities"
+        ]
+    },
+    {
+        "slug": "thailand-adventure",
+        "title": "Thailand Adventure & Culture",
+        "duration": "6 Days / 5 Nights",
+        "country": "Thailand",
+        "theme": [
+            "Adventure",
+            "Family"
+        ],
+        "idealFor": "Friends & Families",
+        "bestTime": "November to February",
+        "description": "From the bustling streets of Bangkok to the crystal waters of Phuket, Thailand offers the perfect mix of culture, adventure, street food, and tropical beaches.",
+        "highlights": [
+            "Grand Palace & Wat Pho",
+            "Phi Phi Island snorkeling",
+            "Floating market experience",
+            "Thai cooking class",
+            "Patong Beach nightlife"
+        ],
+        "image": "/images/packages/thailand.jpg",
+        "gallery": [
+            "/images/packages/thailand.jpg",
+            "/images/packages/thailand-2.jpg",
+            "/images/packages/thailand-3.jpg",
+            "/images/packages/thailand-4.jpg"
+        ],
+        "itinerary": [
+            {
+                "day": 1,
+                "title": "Arrival in Bangkok",
+                "description": "Arrive at Suvarnabhumi Airport. Transfer to hotel. Evening visit to Asiatique Riverfront night market. Enjoy authentic Thai street food. Overnight at Bangkok."
+            },
+            {
+                "day": 2,
+                "title": "Bangkok Temples & Culture",
+                "description": "Visit the Grand Palace, Wat Pho (Reclining Buddha), and Wat Arun. Afternoon at Chatuchak Weekend Market. Evening rooftop dining experience. Overnight at Bangkok."
+            },
+            {
+                "day": 3,
+                "title": "Floating Market & Phuket",
+                "description": "Morning visit to Damnoen Saduak Floating Market. Afternoon flight to Phuket. Evening at Patong Beach. Overnight at Phuket beach resort."
+            },
+            {
+                "day": 4,
+                "title": "Phi Phi Island Day Trip",
+                "description": "Full-day speedboat trip to Phi Phi Islands. Snorkeling, swimming in Maya Bay, and beach hopping. Lunch on the island. Return to Phuket. Overnight at resort."
+            },
+            {
+                "day": 5,
+                "title": "Phuket Adventures",
+                "description": "Morning Thai cooking class. Afternoon at Phuket Old Town. Evening sunset at Promthep Cape viewpoint. Traditional Thai massage. Overnight at Phuket."
+            },
+            {
+                "day": 6,
+                "title": "Departure",
+                "description": "Morning beach time. Transfer to Phuket Airport for departure."
+            }
+        ],
+        "inclusions": [
+            "Hotel & resort stays",
+            "Daily breakfast",
+            "Airport transfers",
+            "Bangkok temple tour",
+            "Phi Phi Island day trip",
+            "Thai cooking class",
+            "Floating market trip"
+        ],
+        "exclusions": [
+            "International airfare",
+            "Visa on arrival fee",
+            "Lunch & dinner",
+            "Personal expenses",
+            "Travel insurance"
+        ]
+    },
+    {
+        "slug": "maldives-overwater-paradise",
+        "title": "Maldives Overwater Paradise",
+        "duration": "5 Days / 4 Nights",
+        "country": "Maldives",
+        "theme": [
+            "Honeymoon"
+        ],
+        "idealFor": "Couples & Honeymooners",
+        "bestTime": "November to April",
+        "description": "The ultimate honeymoon destination — overwater villas, private beaches, turquoise lagoons, and underwater dining. Maldives is romance redefined in the Indian Ocean.",
+        "highlights": [
+            "Overwater villa stay",
+            "Sunset dolphin cruise",
+            "Underwater snorkeling safari",
+            "Private beach dinner",
+            "Spa & wellness retreat"
+        ],
+        "image": "/images/packages/maldives.jpg",
+        "gallery": [
+            "/images/packages/maldives.jpg",
+            "/images/packages/maldives-2.jpg",
+            "/images/packages/maldives-3.jpg",
+            "/images/packages/maldives-4.jpg"
+        ],
+        "itinerary": [
+            {
+                "day": 1,
+                "title": "Arrival in Maldives",
+                "description": "Arrive at Velana International Airport. Speedboat transfer to your island resort. Check into overwater villa. Sunset welcome drinks on the deck. Overnight at resort."
+            },
+            {
+                "day": 2,
+                "title": "Island Exploration",
+                "description": "Morning snorkeling at house reef — spot tropical fish and sea turtles. Afternoon couples spa treatment. Evening sunset dolphin cruise. Romantic dinner on the beach."
+            },
+            {
+                "day": 3,
+                "title": "Water Adventures",
+                "description": "Full-day water activities — kayaking, stand-up paddleboarding, and jet skiing. Underwater snorkeling safari to nearby reefs. Evening stargazing dinner. Overnight at resort."
+            },
+            {
+                "day": 4,
+                "title": "Local Island & Relaxation",
+                "description": "Morning visit to a local Maldivian island — experience local culture and markets. Afternoon relaxation at infinity pool. Sunset photography from water villa deck. Farewell dinner."
+            },
+            {
+                "day": 5,
+                "title": "Departure",
+                "description": "Morning sunrise from villa deck. Speedboat transfer to Male Airport for departure."
+            }
+        ],
+        "inclusions": [
+            "Overwater villa stay (4 nights)",
+            "Full board meals",
+            "Speedboat transfers",
+            "Sunset dolphin cruise",
+            "Snorkeling equipment",
+            "Couples spa session",
+            "Local island visit"
+        ],
+        "exclusions": [
+            "International airfare",
+            "Premium drinks",
+            "Water sports equipment",
+            "Underwater photography",
+            "Travel insurance",
+            "Tips"
+        ]
+    },
+    {
+        "slug": "singapore-city-escape",
+        "title": "Singapore City Escape",
+        "duration": "4 Days / 3 Nights",
+        "country": "Singapore",
+        "theme": [
+            "Family"
+        ],
+        "idealFor": "Families & Couples",
+        "bestTime": "Year-round",
+        "description": "The Lion City — a dazzling blend of futuristic architecture, lush gardens, world-class attractions, and incredible food. Singapore packs endless wonder into a compact island.",
+        "highlights": [
+            "Marina Bay Sands observation",
+            "Gardens by the Bay light show",
+            "Sentosa Island Universal Studios",
+            "Chinatown & Little India",
+            "Night Safari experience"
+        ],
+        "image": "/images/packages/singapore.jpg",
+        "gallery": [
+            "/images/packages/singapore.jpg",
+            "/images/packages/singapore-2.jpg",
+            "/images/packages/singapore-3.jpg",
+            "/images/packages/singapore-4.jpg"
+        ],
+        "itinerary": [
+            {
+                "day": 1,
+                "title": "Arrival in Singapore",
+                "description": "Arrive at Changi Airport. Transfer to hotel. Evening visit to Gardens by the Bay — Supertree Grove & Cloud Forest. Watch the spectacular Garden Rhapsody light show. Overnight at Singapore."
+            },
+            {
+                "day": 2,
+                "title": "City Highlights",
+                "description": "Visit Merlion Park, Marina Bay Sands SkyPark, and Chinatown Heritage Centre. Lunch at Maxwell Food Centre. Afternoon at Little India and Kampong Glam. Evening Singapore Flyer ride. Overnight at Singapore."
+            },
+            {
+                "day": 3,
+                "title": "Sentosa Island",
+                "description": "Full day at Sentosa Island. Visit Universal Studios Singapore, S.E.A. Aquarium, and Madame Tussauds. Evening Wings of Time show. Overnight at Singapore."
+            },
+            {
+                "day": 4,
+                "title": "Departure",
+                "description": "Morning visit to Orchard Road for shopping. Transfer to Changi Airport for departure."
+            }
+        ],
+        "inclusions": [
+            "City hotel stay",
+            "Daily breakfast",
+            "Airport transfers",
+            "Gardens by the Bay tickets",
+            "Marina Bay Sands SkyPark",
+            "Sentosa Island transfers",
+            "Singapore Flyer"
+        ],
+        "exclusions": [
+            "International airfare",
+            "Universal Studios tickets",
+            "Lunch & dinner",
+            "Personal expenses",
+            "Travel insurance"
+        ]
+    },
+    {
+        "slug": "europe-grand-tour",
+        "title": "Europe Grand Tour",
+        "duration": "10 Days / 9 Nights",
+        "country": "Multi-Country",
+        "theme": [
+            "Family",
+            "Adventure"
+        ],
+        "idealFor": "Families & Culture Enthusiasts",
+        "bestTime": "May to September",
+        "description": "The ultimate European journey — Paris romance, Swiss Alps majesty, Amsterdam canals, and Italian charm. Five countries, countless memories, one incredible trip.",
+        "highlights": [
+            "Eiffel Tower & Seine cruise",
+            "Swiss Alps & Jungfrau",
+            "Amsterdam canal cruise",
+            "Rome Colosseum & Vatican",
+            "Brussels Grand Place"
+        ],
+        "image": "/images/packages/europe.jpg",
+        "gallery": [
+            "/images/packages/europe.jpg",
+            "/images/packages/europe-2.jpg",
+            "/images/packages/europe-3.jpg",
+            "/images/packages/europe-4.jpg"
+        ],
+        "itinerary": [
+            {
+                "day": 1,
+                "title": "Arrival in Paris",
+                "description": "Arrive at Charles de Gaulle Airport. Transfer to hotel near Champs-Élysées. Evening Eiffel Tower visit and Seine River dinner cruise. Overnight at Paris."
+            },
+            {
+                "day": 2,
+                "title": "Paris Exploration",
+                "description": "Visit Louvre Museum, Notre-Dame Cathedral, and Montmartre. Afternoon at Versailles Palace. Evening cabaret show. Overnight at Paris."
+            },
+            {
+                "day": 3,
+                "title": "Paris to Brussels",
+                "description": "Morning Thalys train to Brussels. Visit Grand Place, Manneken Pis, and Belgian chocolate shops. Afternoon in Bruges — Venice of the North. Overnight at Brussels."
+            },
+            {
+                "day": 4,
+                "title": "Brussels to Amsterdam",
+                "description": "Train to Amsterdam. Canal cruise tour, visit Anne Frank House, and Rijksmuseum. Evening walk through the vibrant Jordaan neighborhood. Overnight at Amsterdam."
+            },
+            {
+                "day": 5,
+                "title": "Amsterdam to Swiss Alps",
+                "description": "Fly to Zurich. Drive to Interlaken — gateway to the Swiss Alps. Evening walk along Lake Brienz. Overnight at Interlaken."
+            },
+            {
+                "day": 6,
+                "title": "Jungfraujoch — Top of Europe",
+                "description": "Take the scenic cogwheel train to Jungfraujoch — Europe's highest railway station. Experience the Ice Palace and Sphinx observation deck. Afternoon in Grindelwald. Overnight at Interlaken."
+            },
+            {
+                "day": 7,
+                "title": "Switzerland to Italy",
+                "description": "Scenic drive through Gotthard Pass to Milan. Visit Milan Cathedral and Galleria Vittorio Emanuele. Overnight at Milan."
+            },
+            {
+                "day": 8,
+                "title": "Milan to Venice",
+                "description": "Train to Venice. Gondola ride through Grand Canal. Visit St. Mark's Basilica, Doge's Palace, and Rialto Bridge. Overnight at Venice."
+            },
+            {
+                "day": 9,
+                "title": "Venice to Rome",
+                "description": "High-speed train to Rome. Visit Colosseum, Roman Forum, and Trevi Fountain. Afternoon Vatican City — St. Peter's Basilica and Sistine Chapel. Evening Roman dinner. Overnight at Rome."
+            },
+            {
+                "day": 10,
+                "title": "Departure from Rome",
+                "description": "Morning visit Spanish Steps and Piazza Navona. Transfer to Rome Fiumicino Airport for departure."
+            }
+        ],
+        "inclusions": [
+            "3-star/4-star hotel stays",
+            "Daily breakfast",
+            "Inter-city train tickets",
+            "Airport transfers",
+            "Seine cruise in Paris",
+            "Canal cruise in Amsterdam",
+            "Jungfraujoch excursion",
+            "Venice gondola ride",
+            "English-speaking guide"
+        ],
+        "exclusions": [
+            "International airfare",
+            "Schengen visa fees",
+            "Lunch & dinner",
+            "Museum entry tickets",
+            "Travel insurance",
+            "Personal expenses",
+            "City taxes"
+        ]
+    }
+]

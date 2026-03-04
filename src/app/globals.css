@@ -1,26 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700;800;900&display=swap');
+
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+  /* Vibrant Travel Color Palette */
+  --color-primary: #ff6b35;
+  --color-primary-dark: #e85d2a;
+  --color-primary-light: #ffb088;
+  --color-secondary: #1b4965;
+  --color-secondary-dark: #0d2b3e;
+  --color-secondary-light: #62b6cb;
+  --color-accent: #f7c948;
+  --color-accent-dark: #d4a72e;
+  --color-accent-light: #fde68a;
+  --color-coral: #ff6f61;
+  --color-tropical: #00b4d8;
+  --color-sunset: #ff9a3c;
+  --color-emerald: #10b981;
+  --color-surface: #fffaf5;
+  --color-surface-dark: #fff0e6;
+  --color-text: #1a1a2e;
+  --color-text-light: #4a4a5a;
+  --color-text-lighter: #9a9aaa;
+  --color-card: #ffffff;
+  --color-border: #ffe8d6;
+  --font-heading: 'Outfit', sans-serif;
+  --font-body: 'Inter', sans-serif;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+* {
+  box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-body);
+  background-color: var(--color-surface);
+  color: var(--color-text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-surface-dark);
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, var(--color-primary), var(--color-coral));
+  border-radius: 4px;
+}
+
+/* WhatsApp Pulse */
+@keyframes whatsapp-pulse {
+  0% { box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.5); }
+  70% { box-shadow: 0 0 0 15px rgba(37, 211, 102, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(37, 211, 102, 0); }
+}
+
+.whatsapp-pulse {
+  animation: whatsapp-pulse 2s infinite;
+}
+
+/* Hero carousel crossfade */
+@keyframes hero-crossfade {
+  0%, 30% { opacity: 1; }
+  33.33%, 96.66% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.hero-slide-1 { animation: hero-crossfade 15s infinite; }
+.hero-slide-2 { animation: hero-crossfade 15s infinite -5s; }
+.hero-slide-3 { animation: hero-crossfade 15s infinite -10s; }
+
+/* Colorful gradient text */
+.gradient-text {
+  background: linear-gradient(135deg, #ff6b35, #f7c948, #ff6f61);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Vibrant card hover glow */
+.card-glow:hover {
+  box-shadow: 0 10px 40px rgba(255, 107, 53, 0.15), 0 4px 15px rgba(255, 107, 53, 0.1);
+}
+
+/* Colorful section divider */
+.section-divider {
+  height: 4px;
+  background: linear-gradient(90deg, #ff6b35, #f7c948, #ff6f61, #00b4d8, #10b981);
+  border-radius: 2px;
+}
+
+/* Shimmer effect on CTA buttons */
+@keyframes shimmer {
+  0% { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
+.btn-shimmer {
+  background-size: 200% auto;
+  background-image: linear-gradient(90deg, #ff6b35 0%, #f7c948 25%, #ff6f61 50%, #ff6b35 100%);
+  animation: shimmer 3s linear infinite;
 }
