@@ -85,7 +85,7 @@ export default function HomePage() {
             <div className="inline-block px-4 py-1.5 bg-white/15 backdrop-blur-md rounded-full text-white/90 text-sm font-medium mb-6 border border-white/20">
               🌍 Your Journey Starts Here
             </div>
-            <h1 className="font-heading font-black text-5xl md:text-7xl lg:text-8xl text-white leading-[1.1] mb-6">
+            <h1 className="font-heading font-black text-5xl md:text-7xl lg:text-8xl text-white leading-tight mb-6">
               Discover the World,{' '}
               <span className="gradient-text">
                 One Journey at a Time
@@ -111,12 +111,6 @@ export default function HomePage() {
           </AnimatedSection>
         </div>
 
-        {/* Scroll Indicator */}
-        <div className="absolute bottom-8 left-1/2 -translate-x-1/2 z-20 animate-bounce">
-          <div className="w-7 h-12 rounded-full border-2 border-white/40 flex justify-center pt-2">
-            <div className="w-1.5 h-3 bg-white/60 rounded-full animate-pulse" />
-          </div>
-        </div>
       </section>
 
       {/* ============ SEARCH BAR ============ */}
@@ -172,7 +166,7 @@ export default function HomePage() {
               <span className="inline-block px-4 py-1.5 bg-gradient-to-r from-primary/10 to-accent/10 rounded-full text-primary text-sm font-bold uppercase tracking-wider mb-3">
                 🔥 Handpicked For You
               </span>
-              <h2 className="font-heading font-black text-4xl md:text-5xl text-text">
+              <h2 className="font-heading font-black text-4xl md:text-5xl text-text leading-tight">
                 Featured <span className="gradient-text">Packages</span>
               </h2>
               <p className="text-text-light mt-3 text-lg max-w-2xl mx-auto">
@@ -209,7 +203,7 @@ export default function HomePage() {
               <span className="inline-block px-4 py-1.5 bg-gradient-to-r from-emerald/10 to-tropical/10 rounded-full text-emerald text-sm font-bold uppercase tracking-wider mb-3">
                 💪 Why Travelers Love Us
               </span>
-              <h2 className="font-heading font-black text-4xl md:text-5xl text-text">
+              <h2 className="font-heading font-black text-4xl md:text-5xl text-text leading-tight">
                 Why Choose <span className="gradient-text">Hithu Global</span>
               </h2>
             </div>
@@ -236,7 +230,7 @@ export default function HomePage() {
               <span className="inline-block px-4 py-1.5 bg-gradient-to-r from-secondary/10 to-tropical/10 rounded-full text-secondary text-sm font-bold uppercase tracking-wider mb-3">
                 🗺️ Dream Destinations
               </span>
-              <h2 className="font-heading font-black text-4xl md:text-5xl text-text">
+              <h2 className="font-heading font-black text-4xl md:text-5xl text-text leading-tight">
                 Top <span className="gradient-text">Destinations</span>
               </h2>
             </div>
@@ -280,7 +274,7 @@ export default function HomePage() {
               <span className="inline-block px-4 py-1.5 bg-white/10 rounded-full text-accent text-sm font-bold uppercase tracking-wider mb-3">
                 ⭐ Happy Travelers
               </span>
-              <h2 className="font-heading font-black text-4xl md:text-5xl text-white">
+              <h2 className="font-heading font-black text-4xl md:text-5xl text-white leading-tight">
                 What Our <span className="text-accent">Clients</span> Say
               </h2>
             </div>
@@ -309,7 +303,7 @@ export default function HomePage() {
         </div>
         <div className="relative z-10 max-w-4xl mx-auto text-center">
           <AnimatedSection>
-            <h2 className="font-heading font-black text-4xl md:text-6xl text-white mb-4">
+            <h2 className="font-heading font-black text-4xl md:text-6xl text-white leading-tight mb-4">
               Plan Your Dream<br />Vacation Today ✈️
             </h2>
             <p className="text-white/85 text-lg md:text-xl mb-10 max-w-2xl mx-auto">

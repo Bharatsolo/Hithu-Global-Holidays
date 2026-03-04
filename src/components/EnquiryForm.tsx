@@ -89,11 +89,11 @@ export default function EnquiryForm() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
                 <div>
                     <label className="block text-sm font-bold text-text mb-2 tracking-wide uppercase text-xs">👤 Full Name *</label>
-                    <input required type="text" name="name" value={formData.name} onChange={handleChange} className="w-full px-5 py-3.5 rounded-xl border-2 border-border/50 bg-white/50 backdrop-blur-sm text-text text-sm focus:ring-4 focus:ring-primary/10 focus:border-primary outline-none transition-all shadow-sm" placeholder="e.g. Sai Bharadwaj" />
+                    <input required type="text" name="name" value={formData.name} onChange={handleChange} className="w-full px-5 py-3.5 rounded-xl border-2 border-border/50 bg-white/50 backdrop-blur-sm text-text text-sm focus:ring-4 focus:ring-primary/10 focus:border-primary outline-none transition-all shadow-sm" placeholder="e.g. Kiran" />
                 </div>
                 <div>
                     <label className="block text-sm font-bold text-text mb-2 tracking-wide uppercase text-xs">📞 Phone Number *</label>
-                    <input required type="tel" name="phone" value={formData.phone} onChange={handleChange} className="w-full px-5 py-3.5 rounded-xl border-2 border-border/50 bg-white/50 backdrop-blur-sm text-text text-sm focus:ring-4 focus:ring-primary/10 focus:border-primary outline-none transition-all shadow-sm" placeholder="+91 06302567165" />
+                    <input required type="tel" name="phone" value={formData.phone} onChange={handleChange} className="w-full px-5 py-3.5 rounded-xl border-2 border-border/50 bg-white/50 backdrop-blur-sm text-text text-sm focus:ring-4 focus:ring-primary/10 focus:border-primary outline-none transition-all shadow-sm" placeholder="+91 9876543210" />
                 </div>
             </div>
 

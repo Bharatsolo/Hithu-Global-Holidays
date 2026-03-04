@@ -57,7 +57,7 @@ export default function PackageCard({ slug, title, duration, description, highli
                         </span>
                     ))}
                 </div>
-                <div className="flex gap-2">
+                <div className="flex flex-col sm:flex-row gap-2">
                     <Link
                         href={`/${type}/${slug}`}
                         className="flex-1 text-center px-4 py-2.5 bg-secondary/5 text-secondary rounded-xl text-sm font-semibold hover:bg-secondary/10 transition-colors border border-secondary/10"

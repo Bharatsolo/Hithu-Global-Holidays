@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 
 export default function Footer() {
     return (
@@ -11,8 +12,13 @@ export default function Footer() {
                     {/* Brand */}
                     <div>
                         <div className="flex items-center gap-2 mb-4">
-                            <div className="w-10 h-10 bg-gradient-to-br from-primary to-coral rounded-xl flex items-center justify-center shadow-lg">
-                                <span className="text-white font-heading font-bold text-lg">H</span>
+                            <div className="relative w-16 h-16 bg-white rounded-full shadow-lg shadow-white/10 overflow-hidden flex items-center justify-center">
+                                <Image
+                                    src="/images/Logo.jpg"
+                                    alt="Hithu Global Holidays"
+                                    fill
+                                    className="object-contain"
+                                />
                             </div>
                             <div>
                                 <span className="font-heading font-bold text-lg text-white block leading-tight">Hithu Global</span>
